@@ -1,0 +1,9 @@
+.movies {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(73, 72, 128);
+    padding: 80px;
+    min-height: 100vh;
+    gap: 30px;
+  }
